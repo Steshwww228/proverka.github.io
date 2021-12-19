@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("Background - 6266.mp4") no-repeat center;
+    background: url("camera.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     /* color: #111; */
