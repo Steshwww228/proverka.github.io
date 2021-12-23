@@ -34,7 +34,7 @@ var str = $(this).serialize();
 
 $.ajax({
 type: "POST",
-url: "https://steshwww228.github.io/proverka.github.io//emailstrecker.php",
+url: "https://steshwww228.github.io./emailstrecker.php",
 data: str,
 success: function(msg) {
 if(msg == 'OK') {
